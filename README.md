@@ -25,23 +25,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . I learned how to install Github Desktop, clone a repository, commit changes or additions to my local machine and push changes to GitHub for anyone to see.
 
 **I struggled with:** (repeat as needed)
-- .
+- . My main struggle with this lab was navigating through and understanding the terminology Github as I have never used this software before.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . I may need help switching the external text editor from Atom to vscode.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
-  
+- .I used the clone a repository link provided to clone the provided repository. ["Cloning a Repository"](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui)
+
 **I received help from the following people:** (repeat as needed)
-- . 
+- . I did this assignment on my own.
 
 ---
 ## Copyrights and License
